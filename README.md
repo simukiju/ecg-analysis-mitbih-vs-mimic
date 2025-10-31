@@ -35,7 +35,7 @@ Python ≥ 3.8 sürümüne ve aşağıdaki kütüphanelere ihtiyacınız var:
 
 1. Depoyu klonlayın:
 
-   git clone https://github.com/kullaniciadiniz/ecg-analysis-mitbih-vs-mimic.git
+   git clone https://github.com/simukiju/ecg-analysis-mitbih-vs-mimic.git
    
    cd ecg-analysis-mitbih-vs-mimic
 
